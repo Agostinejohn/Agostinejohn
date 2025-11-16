@@ -10,7 +10,7 @@ Building intelligent systems, scalable solutions, and data-driven apps that solv
 
 ## 🌍 About Me
 
-- **Student:** 4th-year Information Technology, Kabarak University  
+- **Student:** Completed all degree requirements and pending formal graduation in December. Information Technology, Kabarak University  
 - **AI & Data Ops:** Experienced in dataset annotation, LLM evaluation, prompt engineering, and AI pipeline automation  
 - **Full-Stack Developer:** Skilled in building web and mobile apps using Python, JavaScript, Flutter, and more  
 - **Location:** Nakuru, Kenya — passionate about creating impact locally and globally  
