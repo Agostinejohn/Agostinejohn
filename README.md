@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Hey, I’m John Maubi
+# 👋 Hey, I’m John Mugoya
 
 🚀 Full-Stack Developer | AI/ML Annotator | Data-Driven Builder  
 🎯 Building intelligent systems, backend engines, and real-world mobile/web apps.
