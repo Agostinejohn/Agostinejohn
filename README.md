@@ -1,76 +1,84 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi%20I'm%20John%20Maubi&fontSize=40&fontColor=58a6ff" alt="banner"/>
-</p>
+<!-- Banner/Header Image -->
+![Header](./header.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Agostinejohn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# John “Agostinejohn” Mugoya
 
----
-
-# 👋 Hey, I’m John Mugoya
-
-🚀 Full-Stack Developer | AI/ML Annotator | Data-Driven Builder  
-🎯 Building intelligent systems, backend engines, and real-world mobile/web apps.
+**Software Engineer | AI & ML Practitioner | Full-Stack Developer**  
+Building intelligent systems, scalable solutions, and data-driven apps that solve real problems.
 
 ---
 
-## 🔍 About Me
+## 🌍 About Me
 
-- 🎓 4th-year Information Technology student @ Kabarak University  
-- 💻 Experienced in AI/ML data projects, LLM evaluation, language annotation (Swahili/Gusii)  
-- 🌍 Based in Kenya, solving global problems one line of code at a time  
-- 🤖 Passionate about AI systems, ML pipelines, and mobile dev with Flutter  
-
----
-
-## 🆕 Latest Projects
-
-| Project | Description | 🔄 Last Update |
-|--------|-------------|----------------|
-| [**Simple-Database-Management-System-**](https://github.com/Agostinejohn/Simple-Database-Management-System-) | Lightweight CLI DBMS built in C++ | May 7, 2025 |
-| [**Mini-E-Commerce-Web-Platform**](https://github.com/Agostinejohn/Mini-E-Commerce-Web-Platform) | Full-featured e-commerce web app | Apr 27, 2025 |
-| [**Health-System-**](https://github.com/Agostinejohn/Health-System-) | Health records management system | Apr 22, 2025 |
-| [**Automotive-electronics**](https://github.com/Agostinejohn/Automotive-electronics) | Embedded electronics web manager | Apr 10, 2025 |
+- **Student:** 4th-year Information Technology, Kabarak University  
+- **AI & Data Ops:** Experienced in dataset annotation, LLM evaluation, prompt engineering, and AI pipeline automation  
+- **Full-Stack Developer:** Skilled in building web and mobile apps using Python, JavaScript, Flutter, and more  
+- **Location:** Nakuru, Kenya — passionate about creating impact locally and globally  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Selected Projects
 
-**Languages:**  
-`Python` `C++` `Dart` `PHP` `JavaScript`
+Here are some of my most significant and technically interesting repositories — chosen to highlight a broad skillset, impact, and depth of development:
 
-**Frameworks & Libraries:**  
-`Flutter` `Flask` `Node.js` `Bootstrap`
+| Project | Description & Impact |
+|---|---|
+| **WebPortfolio-Personal-Web-Projects-Showcase** | A polished personal web portfolio: showcases my web development capabilities, design sensibility, and a curated selection of projects. Built with HTML, CSS, and JavaScript. Ideal for recruiters who want to see a sophisticated and clean front-end presence. |
+| **Mini-E-Commerce-Web-Platform** | A fully-featured web e-commerce application: product listings, user accounts, shopping cart, and checkout workflows. Demonstrates my ability to build business logic, integrate backend and frontend, and manage state / user sessions. |
+| **SmartShop-Responsive-Product-Showcase** | A responsive e-commerce UI that adapts beautifully across device sizes. Highlights my understanding of modern front-end responsive design and user-centric layouts. |
+| **Mini-E-Commerce-System** | A more system-oriented version of e-commerce: deeper functionality around inventory, product management, and possibly admin operations. Reflects my capacity to build maintainable systems and think about modular architecture. |
+| **Automotive-electronics** | Web-based platform to streamline automotive electronics management: handling data, system monitoring, and user interactions. This is a specialized domain project — showing I can work in niche, technical areas. |
+| **online-examination-app** | An online exam application with authentication, question upload, and result tracking. Built in Dart (Flutter), which demonstrates cross-platform mobile/web app design, plus educational or enterprise use-case thinking. |
 
-**Databases:**  
-`MongoDB` `MySQL` `SQLite`
-
-**Tools & Platforms:**  
-`VS Code` `Firebase` `Git` `GitHub Actions` `Linux` `Postman`
+*(Note: These projects are based on what is visible on your GitHub profile. You can refine descriptions to include architecture, tech stack, challenges solved, or impact metrics — e.g., number of users, performance, etc.)*
 
 ---
 
-## 📈 GitHub Stats
+## 💡 Technical Skills & Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agostinejohn&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agostinejohn&theme=tokyonight" width="48%" />
-</p>
+- **Languages:** Python, JavaScript, Dart, C++, PHP  
+- **Frameworks / Libraries:** Flutter, Flask, Node.js, Bootstrap  
+- **Databases:** MongoDB, MySQL, SQLite  
+- **Dev Tools:** Git, GitHub Actions, VS Code, Linux, Firebase  
+- **AI & Data Ops:** Annotation (text, audio), prompt engineering, ML evaluation pipelines  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agostinejohn&layout=compact&theme=tokyonight" width="48%" />
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Agostinejohn&show_icons=true&theme=dark" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agostinejohn&layout=compact&theme=dark" alt="Top Languages" />  
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 📈 What I’m Working On
 
-- [LinkedIn](https://www.linkedin.com/in/john-m-89813824b/)
-- [GitHub](https://github.com/Agostinejohn)
-- 📧 Email: agostinejohn@gmail.com
+- Automating AI dataset pipelines (annotation, cleaning, metadata generation)  
+- Building intelligent tooling for LLM evaluation and agent workflows  
+- Exploring scalable mobile/web apps with Flutter + cloud backend  
+- Expanding my knowledge in **MLOps**, CI/CD, and production-grade AI systems  
 
 ---
 
+## 🏆 Key Achievements
+
+- Led and delivered **high-volume annotation projects** (text, audio, image) for AI datasets  
+- Supported an IT deployment at **PGH Nakuru** with real-time monitoring and device management  
+- Developed multiple cross-platform apps and web systems used in academic and practical environments  
+- Demonstrated strong problem-solving in both AI workflows and full-stack engineering  
+
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/john-m-89813824b)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github)](https://github.com/Agostinejohn)  
+✉ Email: `agostinejohn@gmail.com`
+
+---
+
+> **Quote / Philosophy:**  
 > “Code with purpose. Design with empathy. Ship like a beast.”
+
