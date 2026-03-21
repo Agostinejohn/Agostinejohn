@@ -1,42 +1,42 @@
-# Hi, I'm John Mugoya ðŸ‘‹
+# Hi, I'm John Mugoya
 
 **Software Engineer Â· Full-Stack Developer Â· AI Data Specialist**  
 Building systems that work â€” from REST APIs and mobile apps to real-time cloud platforms.
 
-ðŸ“ Mombasa, Kenya &nbsp;|&nbsp; ðŸŒ Remote-Ready &nbsp;|&nbsp; âœ‰ï¸ cornelljohn262@gmail.com
+Location: Mombasa, Kenya | Remote-Ready | cornelljohn262@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-m-89813824b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agostinejohn)
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## About Me
 
 I'm an Information Technology graduate (Kabarak University, 2025) with 3+ years of hands-on experience across full-stack development, hospital IT infrastructure, and international AI data operations.
 
 I build across the full stack â€” Python/Flask REST APIs, Flutter + Firebase mobile apps, PHP/MySQL web systems â€” and I've worked professionally on AI training data pipelines at **TELUS International** and **Your Personal AI**, processing 500+ hours of annotated data at 98%+ accuracy.
 
-- ðŸ¥ Deployed and maintained IT systems for **200+ staff** at Provincial General Hospital, Nakuru
-- ðŸ¤– Processed and QA-reviewed AI datasets achieving **98%+ accuracy** across large-scale annotation projects
-- ðŸ“± Built cross-platform apps (Android Â· iOS Â· Web Â· Desktop) using Flutter + Firebase
-- ðŸŒ Fluent in **English and Swahili** â€” applied professionally in bilingual AI dataset work
+- Deployed and maintained IT systems for **200+ staff** at Provincial General Hospital, Nakuru
+- Processed and QA-reviewed AI datasets achieving **98%+ accuracy** across large-scale annotation projects
+- Built cross-platform apps (Android, iOS, Web, Desktop) using Flutter + Firebase
+- Fluent in **English and Swahili** â€” applied professionally in bilingual AI dataset work
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 | Project | Stack | What It Does |
 |---|---|---|
-| [ðŸ¥ Health Information System](https://github.com/Agostinejohn/Health_Information_system) | **Python Â· Flask Â· REST API** | RESTful API for managing health programs and client records â€” client registration, program enrollment, profile lookup. Includes API testing documentation and presentation. |
-| [ðŸš¨ Emergency Incident Response App](https://github.com/Agostinejohn/emergency-incident-response-app) | **Flutter Â· Firebase Â· Firestore** | Real-time cross-platform emergency reporting app â€” live geolocation, multi-type incident support (medical, fire, police), secure auth, real-time dashboard. |
-| [ðŸŒ Polyglot Language Translator](https://github.com/Agostinejohn/Polyglot-Real-Time-Language-Translator) | **JavaScript Â· Web Speech API** | Real-time translator with speech-to-text input and text-to-speech output. Supports multiple languages â€” built with bilingual (English/Swahili) domain knowledge. |
-| [ðŸ“… Online Class & Exam Scheduling](https://github.com/Agostinejohn/online-class-and-exam-scheduling-system) | **PHP Â· MySQL Â· Bootstrap** | Full academic management system â€” admin dashboard, student portal, role-based auth, conflict-free exam scheduling, and session management. |
-| [ðŸ©¸ Blood Bank Management System](https://github.com/Agostinejohn/Blood-Bank-management-system) | **PHP Â· MySQL Â· JavaScript** | End-to-end blood bank platform â€” donor registration, blood request management, stock monitoring, and admin reporting with role-based access control. |
-| [ðŸ”’ Prison Management System](https://github.com/Agostinejohn/Prison-management-system) | **C** | Terminal-based CRUD system for inmate records â€” file-based persistence, admin authentication, and full record lifecycle management. |
+| [Health Information System](https://github.com/Agostinejohn/Health_Information_system) | **Python Â· Flask Â· REST API** | RESTful API for managing health programs and client records â€” client registration, program enrollment, profile lookup. Includes API testing documentation and presentation. |
+| [Emergency Incident Response App](https://github.com/Agostinejohn/emergency-incident-response-app) | **Flutter Â· Firebase Â· Firestore** | Real-time cross-platform emergency reporting app â€” live geolocation, multi-type incident support (medical, fire, police), secure auth, real-time dashboard. |
+| [Polyglot Language Translator](https://github.com/Agostinejohn/Polyglot-Real-Time-Language-Translator) | **JavaScript Â· Web Speech API** | Real-time translator with speech-to-text input and text-to-speech output. Supports multiple languages â€” built with bilingual (English/Swahili) domain knowledge. |
+| [Online Class & Exam Scheduling](https://github.com/Agostinejohn/online-class-and-exam-scheduling-system) | **PHP Â· MySQL Â· Bootstrap** | Full academic management system â€” admin dashboard, student portal, role-based auth, conflict-free exam scheduling, and session management. |
+| [Blood Bank Management System](https://github.com/Agostinejohn/Blood-Bank-management-system) | **PHP Â· MySQL Â· JavaScript** | End-to-end blood bank platform â€” donor registration, blood request management, stock monitoring, and admin reporting with role-based access control. |
+| [Prison Management System](https://github.com/Agostinejohn/Prison-management-system) | **C** | Terminal-based CRUD system for inmate records â€” file-based persistence, admin authentication, and full record lifecycle management. |
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -71,7 +71,7 @@ I build across the full stack â€” Python/Flask REST APIs, Flutter + Firebas
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Agostinejohn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -80,22 +80,22 @@ I build across the full stack â€” Python/Flask REST APIs, Flutter + Firebas
 
 ---
 
-## ðŸ’¼ Professional Background
+## Professional Background
 
 | Role | Organisation | Period |
 |---|---|---|
-| Language & Audio Specialist | Your Personal AI *(Remote)* | Marâ€“Sep 2025 |
+| Language & Audio Specialist | Your Personal AI (Remote) | Marâ€“Sep 2025 |
 | IT Systems Support Technician | Provincial General Hospital, Nakuru | Janâ€“Apr 2025 |
-| AI Data Operations Specialist | TELUS International *(Remote)* | 2023â€“2025 |
-| Data Quality Specialist | RWS Moravia *(Remote)* | 2022â€“2023 |
+| AI Data Operations Specialist | TELUS International (Remote) | 2023â€“2025 |
+| Data Quality Specialist | RWS Moravia (Remote) | 2022â€“2023 |
 
 ---
 
-## ðŸ“œ Certifications
+## Certifications
 
-- ðŸ”„ **CompTIA A+** â€” In progress, target Q3 2026
-- âœ… **AI Data Annotation & QA** â€” TELUS International, CrowdCompute, Micro1
+- **CompTIA A+** â€” In progress, target Q3 2026
+- **AI Data Annotation & QA** â€” TELUS International, CrowdCompute, Micro1
 
 ---
 
-> *"Code with purpose. Design with empathy. Ship like a beast."*
+*"Code with purpose. Design with empathy. Ship like a beast."*
