@@ -1,85 +1,101 @@
-<!-- Banner/Header Image -->
+# Hi, I'm John Mugoya ðŸ‘‹
 
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/1a066b75-70ee-4a58-b73f-4bd823c04ba4" />
+**Software Engineer Â· Full-Stack Developer Â· AI Data Specialist**  
+Building systems that work â€” from REST APIs and mobile apps to real-time cloud platforms.
 
-# John “Agostinejohn” Mugoya
+ðŸ“ Mombasa, Kenya &nbsp;|&nbsp; ðŸŒ Remote-Ready &nbsp;|&nbsp; âœ‰ï¸ cornelljohn262@gmail.com
 
-**Software Engineer | AI & ML Practitioner | Full-Stack Developer**  
-Building intelligent systems, scalable solutions, and data-driven apps that solve real problems.
-
----
-
-## 🌍 About Me
-
-- **Student:** Completed all degree requirements and pending formal graduation in December. Information Technology, Kabarak University  
-- **AI & Data Ops:** Experienced in dataset annotation, LLM evaluation, prompt engineering, and AI pipeline automation  
-- **Full-Stack Developer:** Skilled in building web and mobile apps using Python, JavaScript, Flutter, and more  
-- **Location:** Nakuru, Kenya — passionate about creating impact locally and globally  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-m-89813824b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agostinejohn)
 
 ---
 
-## 🚀 Selected Projects
+## ðŸ‘¨â€ðŸ’» About Me
 
-Here are some of my most significant and technically interesting repositories — chosen to highlight a broad skillset, impact, and depth of development:
+I'm an Information Technology graduate (Kabarak University, 2025) with 3+ years of hands-on experience across full-stack development, hospital IT infrastructure, and international AI data operations.
 
-| Project | Description & Impact |
-|---|---|
-| **WebPortfolio-Personal-Web-Projects-Showcase** | A polished personal web portfolio: showcases my web development capabilities, design sensibility, and a curated selection of projects. Built with HTML, CSS, and JavaScript. Ideal for recruiters who want to see a sophisticated and clean front-end presence. |
-| **Mini-E-Commerce-Web-Platform** | A fully-featured web e-commerce application: product listings, user accounts, shopping cart, and checkout workflows. Demonstrates my ability to build business logic, integrate backend and frontend, and manage state / user sessions. |
-| **SmartShop-Responsive-Product-Showcase** | A responsive e-commerce UI that adapts beautifully across device sizes. Highlights my understanding of modern front-end responsive design and user-centric layouts. |
-| **Mini-E-Commerce-System** | A more system-oriented version of e-commerce: deeper functionality around inventory, product management, and possibly admin operations. Reflects my capacity to build maintainable systems and think about modular architecture. |
-| **Automotive-electronics** | Web-based platform to streamline automotive electronics management: handling data, system monitoring, and user interactions. This is a specialized domain project — showing I can work in niche, technical areas. |
-| **online-examination-app** | An online exam application with authentication, question upload, and result tracking. Built in Dart (Flutter), which demonstrates cross-platform mobile/web app design, plus educational or enterprise use-case thinking. |
+I build across the full stack â€” Python/Flask REST APIs, Flutter + Firebase mobile apps, PHP/MySQL web systems â€” and I've worked professionally on AI training data pipelines at **TELUS International** and **Your Personal AI**, processing 500+ hours of annotated data at 98%+ accuracy.
 
-*(Note: These projects are based on what is visible on your GitHub profile. You can refine descriptions to include architecture, tech stack, challenges solved, or impact metrics — e.g., number of users, performance, etc.)*
+- ðŸ¥ Deployed and maintained IT systems for **200+ staff** at Provincial General Hospital, Nakuru
+- ðŸ¤– Processed and QA-reviewed AI datasets achieving **98%+ accuracy** across large-scale annotation projects
+- ðŸ“± Built cross-platform apps (Android Â· iOS Â· Web Â· Desktop) using Flutter + Firebase
+- ðŸŒ Fluent in **English and Swahili** â€” applied professionally in bilingual AI dataset work
 
 ---
 
-## 💡 Technical Skills & Stack
+## ðŸš€ Featured Projects
 
-- **Languages:** Python, JavaScript, Dart, C++, PHP  
-- **Frameworks / Libraries:** Flutter, Flask, Node.js, Bootstrap  
-- **Databases:** MongoDB, MySQL, SQLite  
-- **Dev Tools:** Git, GitHub Actions, VS Code, Linux, Firebase  
-- **AI & Data Ops:** Annotation (text, audio), prompt engineering, ML evaluation pipelines  
+| Project | Stack | What It Does |
+|---|---|---|
+| [ðŸ¥ Health Information System](https://github.com/Agostinejohn/Health_Information_system) | **Python Â· Flask Â· REST API** | RESTful API for managing health programs and client records â€” client registration, program enrollment, profile lookup. Includes API testing documentation and presentation. |
+| [ðŸš¨ Emergency Incident Response App](https://github.com/Agostinejohn/emergency-incident-response-app) | **Flutter Â· Firebase Â· Firestore** | Real-time cross-platform emergency reporting app â€” live geolocation, multi-type incident support (medical, fire, police), secure auth, real-time dashboard. |
+| [ðŸŒ Polyglot Language Translator](https://github.com/Agostinejohn/Polyglot-Real-Time-Language-Translator) | **JavaScript Â· Web Speech API** | Real-time translator with speech-to-text input and text-to-speech output. Supports multiple languages â€” built with bilingual (English/Swahili) domain knowledge. |
+| [ðŸ“… Online Class & Exam Scheduling](https://github.com/Agostinejohn/online-class-and-exam-scheduling-system) | **PHP Â· MySQL Â· Bootstrap** | Full academic management system â€” admin dashboard, student portal, role-based auth, conflict-free exam scheduling, and session management. |
+| [ðŸ©¸ Blood Bank Management System](https://github.com/Agostinejohn/Blood-Bank-management-system) | **PHP Â· MySQL Â· JavaScript** | End-to-end blood bank platform â€” donor registration, blood request management, stock monitoring, and admin reporting with role-based access control. |
+| [ðŸ”’ Prison Management System](https://github.com/Agostinejohn/Prison-management-system) | **C** | Terminal-based CRUD system for inmate records â€” file-based persistence, admin authentication, and full record lifecycle management. |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## ðŸ› ï¸ Tech Stack
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Agostinejohn&show_icons=true&theme=dark" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agostinejohn&layout=compact&theme=dark" alt="Top Languages" />  
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## ðŸ“Š GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agostinejohn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agostinejohn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📈 What I’m Working On
+## ðŸ’¼ Professional Background
 
-- Automating AI dataset pipelines (annotation, cleaning, metadata generation)  
-- Building intelligent tooling for LLM evaluation and agent workflows  
-- Exploring scalable mobile/web apps with Flutter + cloud backend  
-- Expanding my knowledge in **MLOps**, CI/CD, and production-grade AI systems  
-
----
-
-## 🏆 Key Achievements
-
-- Led and delivered **high-volume annotation projects** (text, audio, image) for AI datasets  
-- Supported an IT deployment at **PGH Nakuru** with real-time monitoring and device management  
-- Developed multiple cross-platform apps and web systems used in academic and practical environments  
-- Demonstrated strong problem-solving in both AI workflows and full-stack engineering  
+| Role | Organisation | Period |
+|---|---|---|
+| Language & Audio Specialist | Your Personal AI *(Remote)* | Marâ€“Sep 2025 |
+| IT Systems Support Technician | Provincial General Hospital, Nakuru | Janâ€“Apr 2025 |
+| AI Data Operations Specialist | TELUS International *(Remote)* | 2023â€“2025 |
+| Data Quality Specialist | RWS Moravia *(Remote)* | 2022â€“2023 |
 
 ---
 
-## 📬 Let’s Connect
+## ðŸ“œ Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/john-m-89813824b)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github)](https://github.com/Agostinejohn)  
-✉ Email: `agostinejohn@gmail.com`
+- ðŸ”„ **CompTIA A+** â€” In progress, target Q3 2026
+- âœ… **AI Data Annotation & QA** â€” TELUS International, CrowdCompute, Micro1
 
 ---
 
-> **Quote / Philosophy:**  
-> “Code with purpose. Design with empathy. Ship like a beast.”
-
+> *"Code with purpose. Design with empathy. Ship like a beast."*
