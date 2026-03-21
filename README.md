@@ -1,3 +1,11 @@
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/1a066b75-70ee-4a58-b73f-4bd823c04ba4" />
+
+# John “Agostinejohn” Mugoya
+
+**Software Engineer | AI & ML Practitioner | Full-Stack Developer**  
+Building intelligent systems, scalable solutions, and data-driven apps that solve real problems. 
+
+
 # Hi, I'm John Mugoya
 
 **Software Engineer Â· Full-Stack Developer Â· AI Data Specialist**  
