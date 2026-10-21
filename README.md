@@ -35,7 +35,7 @@ I build across the full stack â€” Python/Flask REST APIs, Flutter + Firebas
 
 | Project | Stack | What It Does |
 |---|---|---|
-| [Health Information System](https://github.com/Agostinejohn/Health_Information_system) | **Python Â· Flask Â· REST API** | RESTful API for managing health programs and client records client registration, program enrollment, profile lookup. Includes API testing documentation and presentation. |
+| [Health Information System](https://github.com/Agostinejohn/health-information-system) | **Python Â· Flask Â· REST API** | RESTful API for managing health programs and client records client registration, program enrollment, profile lookup. Includes API testing documentation and presentation. |
 | [Emergency Incident Response App](https://github.com/Agostinejohn/emergency-incident-response-app) | **Flutter Â· Firebase Â· Firestore** | Real-time cross-platform emergency reporting app â€” live geolocation, multi-type incident support (medical, fire, police), secure auth, real-time dashboard. |
 | [Polyglot Language Translator](https://github.com/Agostinejohn/Polyglot-Real-Time-Language-Translator) | **JavaScript Â· Web Speech API** | Real-time translator with speech-to-text input and text-to-speech output. Supports multiple languages â€” built with bilingual (English/Swahili) domain knowledge. |
 | [Online Class & Exam Scheduling](https://github.com/Agostinejohn/online-class-and-exam-scheduling-system) | **PHP Â· MySQL Â· Bootstrap** | Full academic management system â€” admin dashboard, student portal, role-based auth, conflict-free exam scheduling, and session management. |
