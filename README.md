@@ -11,7 +11,7 @@ Building intelligent systems, scalable solutions, and data-driven apps that solv
 **Software Engineer Â· Full-Stack Developer Â· AI Data Specialist**  
 Building systems that work â€” from REST APIs and mobile apps to real-time cloud platforms.
 
-Location: Nairobi, Kenya | Remote-Ready | cornelljohn262@gmail.com
+Location: Nairobi, Kenya | Remote-Ready | agostinejohn040@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-m-89813824b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agostinejohn)
